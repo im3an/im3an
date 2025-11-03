@@ -8,7 +8,6 @@
 **`Digital Creator (BA Media Informatics Student | Filmmaker | Designer)`**
 
 I'm an ambitious student at TH Köln in Germany pursuing a BA in Media Informatics. My passion lies at the intersection of technology and creativity. I build all my coding projects from the ground up – from planning and designing to solving real-world problems while adding my aesthetic touch to make the world a more stylish place.
-When I'm not coding, I'm creating content for my [TikTok channel](https://tiktok.com/@.im3vn) where I share my journey with over 12K subscribers.
 
 > "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
 
@@ -59,7 +58,6 @@ A creative social app designed for long-distance friends to stay connected throu
 
 <div align="center">
   
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@.im3vn)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/im3vn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@imranmoujtahid@gmail.com)
 
