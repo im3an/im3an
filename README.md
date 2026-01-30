@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Media+Informatics+Student;Creative+Developer;UI%2FUX+Designer;Filmmaker+with+an+Eye+for+Detail" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
-**`Digital Creator (BA Media Informatics Student | Filmmaker | Designer)`**
-
-I'm an ambitious student at TH Köln in Germany pursuing a BA in Media Informatics. My passion lies at the intersection of technology and creativity. I build all my coding projects from the ground up – from planning and designing to solving real-world problems while adding my aesthetic touch to make the world a more stylish place.
-
-> "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
-
 ## 🛠️ Languages and Tools
 
 <div align="center">
@@ -36,23 +29,6 @@ I'm an ambitious student at TH Köln in Germany pursuing a BA in Media Informati
   <img src="https://github-readme-stats.vercel.app/api?username=im3an&show_icons=true&theme=tokyonight" alt="Imran's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=im3an&theme=tokyonight" alt="Imran's GitHub streak" />
 </div>
-
-## 🎬 Recent Projects
-
-### Phishing Training Tool 
-An interactive phishing simulation platform with login and email scenarios, designed to enhance cybersecurity awareness through engaging and realistic UI elements. Ideal for comprehensive professional training programs.
-- **Tech Stack**: HTML5, CSS3, TypeScript
-
-### Long-Distance Challenge App
-A creative social app designed for long-distance friends to stay connected through daily challenges. Users respond with photos, videos, and reactions—focusing on visual expression over text or voice. Encourages playful interaction and shared moments across distances.
-- **Tech Stack**: Kotlin
-
-## 🌱 Currently Learning
-- Advanced React and React Native techniques
-- UI/UX principles and accessibility standards
-- Machine Learning for creative applications
-- Motion design and 3D modeling
-- Filmmaking
 
 ## 📫 Connect With Me
 
